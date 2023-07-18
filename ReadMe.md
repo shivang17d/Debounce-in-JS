@@ -1,4 +1,4 @@
 
+https://github.com/shivang17d/Debounce-in-JS/assets/86548591/3043f58a-d0a8-4c32-8cff-3e58380e42aa
 
-https://github.com/shivang17d/Debounce-in-JS/assets/86548591/f86474ff-f50e-41dd-b318-a522e305c0c6
 
